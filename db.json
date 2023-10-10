@@ -1,0 +1,58 @@
+[
+  {
+    "book_id": 1,
+    "category": "Sports",
+    "book_name": "book 1",
+    "description": "book 1 description.",
+    "detail": "book 1 detail..."
+  },
+  {
+    "book_id": 2,
+    "category": "Sports",
+    "book_name": "book 2",
+    "description": "book 2 description.",
+    "detail": "book 2 detail..."
+  },
+  {
+    "book_id": 3,
+    "category": "Kids",
+    "book_name": "book 3",
+    "description": "book 3 description.",
+    "detail": "book 3 detail..."
+  },
+  {
+    "book_id": 4,
+    "category": "Magazines",
+    "book_name": "book 4",
+    "description": "book 4 description.",
+    "detail": "book 4 detail..."
+  },
+  {
+    "book_id": 5,
+    "category": "Magazines",
+    "book_name": "book 5",
+    "description": "book 5 description.",
+    "detail": "book 5 detail..."
+  },
+  {
+    "book_id": 6,
+    "category": "Magazines",
+    "book_name": "book6",
+    "description": "book6 description",
+    "detail": "book6 detail...."
+  },
+  {
+    "book_id": 7,
+    "category": "Kids",
+    "book_name": "book75",
+    "description": "book75 description",
+    "detail": "book8 detail...."
+  },
+  {
+    "book_id": 8,
+    "category": "Kids",
+    "book_name": "book8",
+    "description": "book8 description",
+    "detail": "book8 detail...."
+  }
+]
